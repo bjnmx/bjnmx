@@ -1,0 +1,6 @@
+- 👋 Hello, I'm @bjnmx
+- 👀 I am interested in learning focused on science and data analysis.
+- 🌱 I am currently learning data analysis, business architecture.
+- 💞️ I am looking to collaborate on projects to improve my understanding in the world of analytical data.
+- 📫 @bjnxmg
+- ⚡Knowledge: data analysis, HTML and CSS domain, JavaScript (ES6), management and creation of applications with PHP, fetch API and MYSQL.
