@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @bjnmx
+- 👋 Hello, I'm @brajan
 - 👀 I am interested in learning focused on science and data analysis.
 - 🌱 I am currently learning data analysis, business architecture.
 - 💞️ I am looking to collaborate on projects to improve my understanding in the world of analytical data.
